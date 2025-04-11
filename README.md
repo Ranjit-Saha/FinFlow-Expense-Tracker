@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="screenshots/home.png" alt="FinFlow Preview" width="600" height="400">
+  <img src="screenshots/home.png" alt="FinFlow Preview" width="600" height="100">
 </p>
 
 # 💼 About the FinFlow – Expense Tracker 💸
