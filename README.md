@@ -196,3 +196,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 - [Streamlit](https://streamlit.io/)
 - [MySQL](https://www.mysql.com/)
 
+<p align="center">
+  ⭐️ If you like this project, give it a star on <a href="https://github.com/Ranjit-Saha/FinFlow-Expense-Tracker">GitHub</a>!
+</p>
