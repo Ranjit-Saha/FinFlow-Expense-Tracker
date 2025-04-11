@@ -1,11 +1,9 @@
-# 💼 Expense Management System
-
-The **Expense Management System** is a full-stack application designed to help users track and analyze their expenses with ease. It uses **FastAPI** for the backend and **Streamlit** for the frontend, backed by a MySQL database for reliable data storage and retrieval.
-
----
-# FinFlow – Expense Tracker 💸
+# 💼 FinFlow – Expense Tracker 💸
 
 > Track smarter. Spend wiser. With FinFlow.
+
+The **FinFlow Expense Tracker** is a full-stack application designed to help users track and analyze their expenses with ease. It uses **FastAPI** for the backend and **Streamlit** for the frontend, backed by a MySQL database for reliable data storage and retrieval.
+
 
 ## 📌 Features
 
