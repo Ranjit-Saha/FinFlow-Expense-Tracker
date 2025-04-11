@@ -9,8 +9,7 @@
   <img src="https://img.shields.io/badge/Made%20With-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge">
   <img src="https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge">
   <img src="https://img.shields.io/badge/Database-MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
- <img src="https://img.shields.io/badge/License-MIT-blue?style=flat" alt="MIT License">
-
+  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License Badge">
 </p>
 
 <p align="center">
