@@ -1,6 +1,29 @@
 <h1 align="center">💼 FinFlow – Expense Tracker 💸</h1>
 
 <p align="center">
+  <em><b>Track smarter. Spend wiser. With FinFlow.</b></em><br>
+  <sub>In a world of expenses and entries, FinFlow brings clarity through code. Built to simplify your spending journey – one transaction at a time.</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20With-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge">
+  <img src="https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge">
+  <img src="https://img.shields.io/badge/Database-MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
+  <img src="https://img.shields.io/github/license/Ranjit-Saha/FinFlow-Expense-Tracker?style=for-the-badge" alt="License Badge">
+</p>
+
+<p align="center">
+  <img src="screenshots/home.png" alt="FinFlow Preview" width="600">
+</p>
+
+---
+
+
+
+
+<h1 align="center">💼 FinFlow – Expense Tracker 💸</h1>
+
+<p align="center">
   <em>Track smarter. Spend wiser. With FinFlow.</em><br>
   <strong>A sleek, full-stack expense tracker built with FastAPI & Streamlit – designed to simplify your spending journey.</strong>
 </p>
