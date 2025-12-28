@@ -8,3 +8,6 @@ requests==2.32.3
 pytest==8.3.5
 
 
+
+mysql~=0.0.3
+openai~=1.73.0

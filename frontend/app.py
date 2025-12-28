@@ -3,7 +3,7 @@ from add_update_ui import add_update_tab
 from analytics_by_category import analytics_category_tab
 from analytics_by_months import show_monthly_analytics
 
-AIP_URL = "http://localhost:8000"
+AIP_URL = "https://expense-tracker-api-5p2j.onrender.com"
 
 st.title("Expense Tracking System")
 
