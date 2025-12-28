@@ -31,7 +31,7 @@ def analytics_category_tab():
         df_sorted = df.sort_values(by="Percentage", ascending=False)
 
         st.header("📊Expense Breakdown By Categories")
-        st.bar_chart(data=df_sorted.set_index("Category")["Percentage"], width=0, height=0, use_container_width=2)
+        st.bar_chart(data=df_sorted.set_index("Category")["Percentage"], use_container_width=2)
 
         df_sorted["Total"] = df_sorted["Total"].map("\u20B9 {:.2f}".format)
         df_sorted["Percentage"] = df_sorted["Percentage"].map("{:.2f}\ufe6a ".format)
