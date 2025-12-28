@@ -9,10 +9,11 @@ logger = setup_logger('db_helper')
 @contextmanager
 def get_db_cursor(commit=False):
     connection = mysql.connector.connect(
-        host=os.getenv("DB_HOST", "127.0.0.1"),
-        user=os.getenv("DB_USER", "root"),
-        password=os.getenv("DB_PASSWORD", "root"),
-        database=os.getenv("DB_NAME", "expense_manager")
+        host=os.getenv("DB_HOST", "gateway01.ap-southeast-1.prod.aws.tidbcloud.com"),
+        user=os.getenv("DB_USER", "AdyNW1BC2NhacVK.root"),
+        password=os.getenv("DB_PASSWORD", "Kqlgj2uuqZSfu72U"),
+        database=os.getenv("DB_NAME", "test"),
+        port=4000  # <--- ADD THIS LINE (Don't forget the comma above it!)
     )
 
     cursor = connection.cursor(dictionary=True)
