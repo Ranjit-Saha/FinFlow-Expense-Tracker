@@ -20,7 +20,7 @@ def show_monthly_analytics():
 
     st.header("🗓️ Expense Breakdown By Months")
 
-    st.bar_chart(data=df_sorted.set_index("Month Name")['Total'], use_container_width=True)
+st.bar_chart(data=df_sorted.set_index("Month Name")['Total'], use_container_width=True)
 
     df_sorted["Total"] = df_sorted["Total"].map("\u20B9 {:.2f}".format)
 
