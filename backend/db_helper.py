@@ -13,7 +13,8 @@ def get_db_cursor(commit=False):
         user=os.getenv("DB_USER", "AdyNW1BC2NhacVK.root"),
         password=os.getenv("DB_PASSWORD", "Kqlgj2uuqZSfu72U"),
         database=os.getenv("DB_NAME", "test"),
-        port=4000  # <--- ADD THIS LINE (Don't forget the comma above it!)
+        port=4000,
+        ssl_ca = "/etc/ssl/certs/ca-certificates.crt"
     )
 
     cursor = connection.cursor(dictionary=True)
