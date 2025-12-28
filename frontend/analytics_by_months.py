@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import pandas as pd
 
-API_URL = "http://localhost:8000"
+API_URL = "https://expense-tracker-api-5p2j.onrender.com"
 
 
 def show_monthly_analytics():

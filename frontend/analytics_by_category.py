@@ -3,7 +3,7 @@ from datetime import datetime
 import requests
 import pandas as pd
 
-AIP_URL = "http://localhost:8000"
+AIP_URL = "https://expense-tracker-api-5p2j.onrender.com"
 
 
 def analytics_category_tab():

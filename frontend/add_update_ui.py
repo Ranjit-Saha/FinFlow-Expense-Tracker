@@ -2,7 +2,7 @@ import streamlit as st
 from datetime import datetime
 import requests
 
-AIP_URL = "http://localhost:8000"
+AIP_URL = "https://expense-tracker-api-5p2j.onrender.com"
 
 
 def add_update_tab():
